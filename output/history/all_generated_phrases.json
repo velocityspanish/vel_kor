@@ -18389,7 +18389,37 @@
       "korean": "조금 더, 말하고 있어요.",
       "category": "Confidence",
       "generated_at": "2026-08-09T14:22:38.892147"
+    },
+    {
+      "english": "Breath shallow, then deep.",
+      "korean": "숨 얕게, 그리고 깊게.",
+      "category": "Emergency Korean",
+      "generated_at": "2026-08-09T17:22:14.561120"
+    },
+    {
+      "english": "Light within, a compass.",
+      "korean": "내면의 빛, 나침반.",
+      "category": "Emergency Korean",
+      "generated_at": "2026-08-09T17:22:14.561129"
+    },
+    {
+      "english": "Anchor steady, float gently.",
+      "korean": "닻은 곧게, 부드럽게 떠.",
+      "category": "Emergency Korean",
+      "generated_at": "2026-08-09T17:22:14.561131"
+    },
+    {
+      "english": "Listen soft, to silence.",
+      "korean": "고요히 귀 기울여.",
+      "category": "Emergency Korean",
+      "generated_at": "2026-08-09T17:22:14.561132"
+    },
+    {
+      "english": "Shadows pass, light returns.",
+      "korean": "그림자 지나, 빛 돌아와.",
+      "category": "Emergency Korean",
+      "generated_at": "2026-08-09T17:22:14.561133"
     }
   ],
-  "last_updated": "2026-08-09T14:22:38.892148"
+  "last_updated": "2026-08-09T17:22:14.561135"
 }
