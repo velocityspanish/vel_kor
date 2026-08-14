@@ -19109,7 +19109,37 @@
       "korean": "별빛 따라, 길을 찾아.",
       "category": "Happiness",
       "generated_at": "2026-08-14T02:14:12.851461"
+    },
+    {
+      "english": "Let's try, together.",
+      "korean": "같이, 해봐요.",
+      "category": "Friendship",
+      "generated_at": "2026-08-14T14:43:22.564533"
+    },
+    {
+      "english": "Your turn, speak.",
+      "korean": "네 차례, 말해요.",
+      "category": "Friendship",
+      "generated_at": "2026-08-14T14:43:22.564543"
+    },
+    {
+      "english": "Learn this, now.",
+      "korean": "이거, 배워요.",
+      "category": "Friendship",
+      "generated_at": "2026-08-14T14:43:22.564545"
+    },
+    {
+      "english": "Let's connect, simply.",
+      "korean": "간단히, 이어져요.",
+      "category": "Friendship",
+      "generated_at": "2026-08-14T14:43:22.564546"
+    },
+    {
+      "english": "New word, practice.",
+      "korean": "새 단어, 연습.",
+      "category": "Friendship",
+      "generated_at": "2026-08-14T14:43:22.564547"
     }
   ],
-  "last_updated": "2026-08-14T02:14:12.851463"
+  "last_updated": "2026-08-14T14:43:22.564549"
 }
