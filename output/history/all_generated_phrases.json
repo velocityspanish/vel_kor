@@ -19169,7 +19169,37 @@
       "korean": "외로운 별, 빛나요.",
       "category": "Creativity",
       "generated_at": "2026-08-14T17:44:31.895671"
+    },
+    {
+      "english": "Help me, quick!",
+      "korean": "도와주세요, 빨리!",
+      "category": "Emergency Korean",
+      "generated_at": "2026-08-14T20:23:45.728239"
+    },
+    {
+      "english": "I'm lost, where?",
+      "korean": "길 잃었어요, 어디?",
+      "category": "Emergency Korean",
+      "generated_at": "2026-08-14T20:23:45.728250"
+    },
+    {
+      "english": "Fire! Escape now!",
+      "korean": "불이야! 지금 탈출!",
+      "category": "Emergency Korean",
+      "generated_at": "2026-08-14T20:23:45.728252"
+    },
+    {
+      "english": "Call police, fast!",
+      "korean": "경찰 불러요, 어서!",
+      "category": "Emergency Korean",
+      "generated_at": "2026-08-14T20:23:45.728253"
+    },
+    {
+      "english": "Danger near, move!",
+      "korean": "위험해요, 이동!",
+      "category": "Emergency Korean",
+      "generated_at": "2026-08-14T20:23:45.728254"
     }
   ],
-  "last_updated": "2026-08-14T17:44:31.895673"
+  "last_updated": "2026-08-14T20:23:45.728256"
 }
