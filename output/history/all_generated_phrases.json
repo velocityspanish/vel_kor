@@ -19859,7 +19859,37 @@
       "korean": "이거 진짜 맛있다.",
       "category": "Restaurant Korean",
       "generated_at": "2026-08-19T01:27:20.728333"
+    },
+    {
+      "english": "This price is good.",
+      "korean": "가격이 좋네요.",
+      "category": "Shopping Korean",
+      "generated_at": "2026-08-19T14:26:54.856920"
+    },
+    {
+      "english": "I'll take this one.",
+      "korean": "이것으로 할게요.",
+      "category": "Shopping Korean",
+      "generated_at": "2026-08-19T14:26:54.856933"
+    },
+    {
+      "english": "Do you have others?",
+      "korean": "다른 것 있나요?",
+      "category": "Shopping Korean",
+      "generated_at": "2026-08-19T14:26:54.856935"
+    },
+    {
+      "english": "It's a bit expensive.",
+      "korean": "조금 비싸네요.",
+      "category": "Shopping Korean",
+      "generated_at": "2026-08-19T14:26:54.856936"
+    },
+    {
+      "english": "Can I try this on?",
+      "korean": "이것 입어볼게요.",
+      "category": "Shopping Korean",
+      "generated_at": "2026-08-19T14:26:54.856937"
     }
   ],
-  "last_updated": "2026-08-19T01:27:20.728334"
+  "last_updated": "2026-08-19T14:26:54.856939"
 }
