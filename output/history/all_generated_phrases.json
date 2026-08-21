@@ -20249,7 +20249,37 @@
       "korean": "보이지 않는 길, 열리네.",
       "category": "Perseverance",
       "generated_at": "2026-08-21T20:14:19.148474"
+    },
+    {
+      "english": "Hello, friend. Say it.",
+      "korean": "안녕, 친구. 말해 봐.",
+      "category": "Greetings",
+      "generated_at": "2026-08-21T23:29:32.666006"
+    },
+    {
+      "english": "Good morning. Your day, shine.",
+      "korean": "좋은 아침. 네 하루, 빛내.",
+      "category": "Greetings",
+      "generated_at": "2026-08-21T23:29:32.666021"
+    },
+    {
+      "english": "Nice to meet you. Really.",
+      "korean": "만나서 반가워. 정말.",
+      "category": "Greetings",
+      "generated_at": "2026-08-21T23:29:32.666023"
+    },
+    {
+      "english": "Welcome. Feel at home.",
+      "korean": "어서 와. 편하게 있어.",
+      "category": "Greetings",
+      "generated_at": "2026-08-21T23:29:32.666025"
+    },
+    {
+      "english": "Hello again. Let's chat.",
+      "korean": "또 보자. 이야기하자.",
+      "category": "Greetings",
+      "generated_at": "2026-08-21T23:29:32.666026"
     }
   ],
-  "last_updated": "2026-08-21T20:14:19.148475"
+  "last_updated": "2026-08-21T23:29:32.666028"
 }
