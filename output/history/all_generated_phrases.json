@@ -20639,7 +20639,37 @@
       "korean": "자신의 박자, 찾아.",
       "category": "Positive Life",
       "generated_at": "2026-08-24T14:29:36.138797"
+    },
+    {
+      "english": "This dish, order now!",
+      "korean": "이거, 지금 주문!",
+      "category": "Restaurant Korean",
+      "generated_at": "2026-08-24T17:22:42.110504"
+    },
+    {
+      "english": "Spicy level, pick yours!",
+      "korean": "맵기, 골라보세요!",
+      "category": "Restaurant Korean",
+      "generated_at": "2026-08-24T17:22:42.110517"
+    },
+    {
+      "english": "Serve it, immediately!",
+      "korean": "바로 주세요!",
+      "category": "Restaurant Korean",
+      "generated_at": "2026-08-24T17:22:42.110518"
+    },
+    {
+      "english": "More side dishes, bring!",
+      "korean": "반찬 더 주세요!",
+      "category": "Restaurant Korean",
+      "generated_at": "2026-08-24T17:22:42.110520"
+    },
+    {
+      "english": "Delicious, so try it!",
+      "korean": "맛있어요, 드세요!",
+      "category": "Restaurant Korean",
+      "generated_at": "2026-08-24T17:22:42.110521"
     }
   ],
-  "last_updated": "2026-08-24T14:29:36.138799"
+  "last_updated": "2026-08-24T17:22:42.110523"
 }
