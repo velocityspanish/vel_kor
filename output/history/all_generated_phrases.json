@@ -20699,7 +20699,37 @@
       "korean": "소리를 느끼고, 말해요.",
       "category": "Basic Phrases",
       "generated_at": "2026-08-24T20:18:21.068691"
+    },
+    {
+      "english": "Lost? Breathe, I'll help.",
+      "korean": "길 잃었어? 숨 쉬어, 도와줄게.",
+      "category": "Emergency Korean",
+      "generated_at": "2026-08-24T23:26:55.690567"
+    },
+    {
+      "english": "Need help? Just signal.",
+      "korean": "도움 필요해? 그냥 신호 해.",
+      "category": "Emergency Korean",
+      "generated_at": "2026-08-24T23:26:55.690579"
+    },
+    {
+      "english": "Feeling unwell? Rest now.",
+      "korean": "몸이 안 좋아? 지금 쉬어.",
+      "category": "Emergency Korean",
+      "generated_at": "2026-08-24T23:26:55.690581"
+    },
+    {
+      "english": "Something wrong? Speak it.",
+      "korean": "뭔가 잘못됐어? 말해 봐.",
+      "category": "Emergency Korean",
+      "generated_at": "2026-08-24T23:26:55.690582"
+    },
+    {
+      "english": "Danger near? Quickly move.",
+      "korean": "위험 가까워? 빨리 움직여.",
+      "category": "Emergency Korean",
+      "generated_at": "2026-08-24T23:26:55.690586"
     }
   ],
-  "last_updated": "2026-08-24T20:18:21.068693"
+  "last_updated": "2026-08-24T23:26:55.690588"
 }
