@@ -21569,7 +21569,37 @@
       "korean": "맑은 시냇물처럼 흐르세요.",
       "category": "Success",
       "generated_at": "2026-08-30T19:35:00.871779"
+    },
+    {
+      "english": "Hello friend, let's explore.",
+      "korean": "안녕 친구, 탐험하자.",
+      "category": "Greetings",
+      "generated_at": "2026-08-30T22:13:43.034701"
+    },
+    {
+      "english": "Good day, with a smile.",
+      "korean": "좋은 하루, 미소와 함께.",
+      "category": "Greetings",
+      "generated_at": "2026-08-30T22:13:43.034712"
+    },
+    {
+      "english": "Welcome, discover with me.",
+      "korean": "어서 와, 나와 함께 발견해.",
+      "category": "Greetings",
+      "generated_at": "2026-08-30T22:13:43.034714"
+    },
+    {
+      "english": "Hello! Ready to learn?",
+      "korean": "안녕하세요! 배울 준비 됐어요?",
+      "category": "Greetings",
+      "generated_at": "2026-08-30T22:13:43.034715"
+    },
+    {
+      "english": "Hi there, great to see you.",
+      "korean": "안녕, 만나서 반가워.",
+      "category": "Greetings",
+      "generated_at": "2026-08-30T22:13:43.034717"
     }
   ],
-  "last_updated": "2026-08-30T19:35:00.871780"
+  "last_updated": "2026-08-30T22:13:43.034718"
 }
