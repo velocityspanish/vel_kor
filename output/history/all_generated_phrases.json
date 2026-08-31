@@ -21659,7 +21659,37 @@
       "korean": "돌도 닳아요, 부드럽게.",
       "category": "Perseverance",
       "generated_at": "2026-08-31T04:42:20.927211"
+    },
+    {
+      "english": "Dare to speak Korean.",
+      "korean": "한국어, 말해보세요.",
+      "category": "Courage",
+      "generated_at": "2026-08-31T19:47:07.994744"
+    },
+    {
+      "english": "Your moment, now.",
+      "korean": "당신의 순간, 지금.",
+      "category": "Courage",
+      "generated_at": "2026-08-31T19:47:07.994756"
+    },
+    {
+      "english": "Try, don't fear.",
+      "korean": "시도하세요, 두려워 마세요.",
+      "category": "Courage",
+      "generated_at": "2026-08-31T19:47:07.994758"
+    },
+    {
+      "english": "Leap, learn fast.",
+      "korean": "뛰어드세요, 빨리 배우세요.",
+      "category": "Courage",
+      "generated_at": "2026-08-31T19:47:07.994760"
+    },
+    {
+      "english": "Challenge accepted, Korean.",
+      "korean": "도전, 한국어.",
+      "category": "Courage",
+      "generated_at": "2026-08-31T19:47:07.994761"
     }
   ],
-  "last_updated": "2026-08-31T04:42:20.927212"
+  "last_updated": "2026-08-31T19:47:07.994763"
 }
