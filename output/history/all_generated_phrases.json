@@ -21599,7 +21599,37 @@
       "korean": "안녕, 만나서 반가워.",
       "category": "Greetings",
       "generated_at": "2026-08-30T22:13:43.034717"
+    },
+    {
+      "english": "Try again, learn.",
+      "korean": "다시 시도, 배우세요.",
+      "category": "Hope",
+      "generated_at": "2026-08-31T01:17:42.809070"
+    },
+    {
+      "english": "New word, today.",
+      "korean": "새 단어, 오늘.",
+      "category": "Hope",
+      "generated_at": "2026-08-31T01:17:42.809084"
+    },
+    {
+      "english": "Listen, understand.",
+      "korean": "듣고, 이해해요.",
+      "category": "Hope",
+      "generated_at": "2026-08-31T01:17:42.809086"
+    },
+    {
+      "english": "Write, practice.",
+      "korean": "쓰고, 연습해요.",
+      "category": "Hope",
+      "generated_at": "2026-08-31T01:17:42.809087"
+    },
+    {
+      "english": "Open book, read.",
+      "korean": "책 펴고, 읽으세요.",
+      "category": "Hope",
+      "generated_at": "2026-08-31T01:17:42.809088"
     }
   ],
-  "last_updated": "2026-08-30T22:13:43.034718"
+  "last_updated": "2026-08-31T01:17:42.809090"
 }
