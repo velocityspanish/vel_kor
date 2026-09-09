@@ -22979,7 +22979,37 @@
       "korean": "빨리 행동. 성공해.",
       "category": "Time Korean",
       "generated_at": "2026-09-09T03:55:53.020084"
+    },
+    {
+      "english": "This color, really suits you.",
+      "korean": "이 색깔, 정말 잘 어울려요.",
+      "category": "Shopping Korean",
+      "generated_at": "2026-09-09T17:22:49.555657"
+    },
+    {
+      "english": "Don't rush, take your time.",
+      "korean": "서두르지 마, 천천히 골라.",
+      "category": "Shopping Korean",
+      "generated_at": "2026-09-09T17:22:49.555666"
+    },
+    {
+      "english": "That's a good deal, right?",
+      "korean": "이거 괜찮은 가격이지?",
+      "category": "Shopping Korean",
+      "generated_at": "2026-09-09T17:22:49.555667"
+    },
+    {
+      "english": "Try this one, it's soft.",
+      "korean": "이거 입어봐, 부드러워.",
+      "category": "Shopping Korean",
+      "generated_at": "2026-09-09T17:22:49.555668"
+    },
+    {
+      "english": "It fits perfectly, amazing!",
+      "korean": "딱 맞아, 신기해!",
+      "category": "Shopping Korean",
+      "generated_at": "2026-09-09T17:22:49.555670"
     }
   ],
-  "last_updated": "2026-09-09T03:55:53.020086"
+  "last_updated": "2026-09-09T17:22:49.555671"
 }
