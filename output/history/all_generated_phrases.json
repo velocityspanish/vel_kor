@@ -22949,7 +22949,37 @@
       "korean": "화면 멈춤? 천천히 다시.",
       "category": "Emergency Korean",
       "generated_at": "2026-09-09T01:08:22.759964"
+    },
+    {
+      "english": "Now is the time. Go!",
+      "korean": "지금이 기회. 가자!",
+      "category": "Time Korean",
+      "generated_at": "2026-09-09T03:55:53.020070"
+    },
+    {
+      "english": "Start today. Not later.",
+      "korean": "오늘 시작. 미루지 마.",
+      "category": "Time Korean",
+      "generated_at": "2026-09-09T03:55:53.020080"
+    },
+    {
+      "english": "Make it happen. Now.",
+      "korean": "지금 해내자. 바로.",
+      "category": "Time Korean",
+      "generated_at": "2026-09-09T03:55:53.020082"
+    },
+    {
+      "english": "Seize this moment. Leap.",
+      "korean": "이 순간 잡아. 뛰어.",
+      "category": "Time Korean",
+      "generated_at": "2026-09-09T03:55:53.020083"
+    },
+    {
+      "english": "Act fast. Succeed.",
+      "korean": "빨리 행동. 성공해.",
+      "category": "Time Korean",
+      "generated_at": "2026-09-09T03:55:53.020084"
     }
   ],
-  "last_updated": "2026-09-09T01:08:22.759965"
+  "last_updated": "2026-09-09T03:55:53.020086"
 }
