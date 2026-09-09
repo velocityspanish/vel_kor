@@ -22919,7 +22919,37 @@
       "korean": "첫 질문, 답했습니다.",
       "category": "Numbers Korean",
       "generated_at": "2026-09-08T22:09:32.510285"
+    },
+    {
+      "english": "System error? Stay calm.",
+      "korean": "시스템 오류? 침착해요.",
+      "category": "Emergency Korean",
+      "generated_at": "2026-09-09T01:08:22.759947"
+    },
+    {
+      "english": "Lost signal? Find new path.",
+      "korean": "신호 끊김? 새 길 찾자.",
+      "category": "Emergency Korean",
+      "generated_at": "2026-09-09T01:08:22.759959"
+    },
+    {
+      "english": "Traffic jam? Relax, observe.",
+      "korean": "교통 체증? 쉬자, 보자.",
+      "category": "Emergency Korean",
+      "generated_at": "2026-09-09T01:08:22.759961"
+    },
+    {
+      "english": "Wi-Fi down? Connect offline.",
+      "korean": "와이파이 안 돼? 오프라인 연결.",
+      "category": "Emergency Korean",
+      "generated_at": "2026-09-09T01:08:22.759962"
+    },
+    {
+      "english": "Screen frozen? Reboot slowly.",
+      "korean": "화면 멈춤? 천천히 다시.",
+      "category": "Emergency Korean",
+      "generated_at": "2026-09-09T01:08:22.759964"
     }
   ],
-  "last_updated": "2026-09-08T22:09:32.510287"
+  "last_updated": "2026-09-09T01:08:22.759965"
 }
