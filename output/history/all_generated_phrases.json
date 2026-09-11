@@ -23309,7 +23309,37 @@
       "korean": "낡은 틀 깨고, 만들어요.",
       "category": "Success",
       "generated_at": "2026-09-11T17:22:19.537677"
+    },
+    {
+      "english": "One sentence, unlocked.",
+      "korean": "한 문장, 풀렸어요.",
+      "category": "Growth",
+      "generated_at": "2026-09-11T19:21:43.010317"
+    },
+    {
+      "english": "Hearing clearly, now.",
+      "korean": "잘 들려요, 이제.",
+      "category": "Growth",
+      "generated_at": "2026-09-11T19:21:43.010327"
+    },
+    {
+      "english": "That Korean, sounds good.",
+      "korean": "그 한국어, 좋아요.",
+      "category": "Growth",
+      "generated_at": "2026-09-11T19:21:43.010329"
+    },
+    {
+      "english": "Grammar point, connects.",
+      "korean": "문법 이해, 연결돼요.",
+      "category": "Growth",
+      "generated_at": "2026-09-11T19:21:43.010330"
+    },
+    {
+      "english": "Spoke one phrase, proudly.",
+      "korean": "한마디 했어요, 자랑스럽게.",
+      "category": "Growth",
+      "generated_at": "2026-09-11T19:21:43.010331"
     }
   ],
-  "last_updated": "2026-09-11T17:22:19.537693"
+  "last_updated": "2026-09-11T19:21:43.010332"
 }
