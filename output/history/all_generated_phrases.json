@@ -23609,7 +23609,37 @@
       "korean": "이 옷, 잘 맞아요!",
       "category": "Shopping Korean",
       "generated_at": "2026-09-13T17:06:49.640684"
+    },
+    {
+      "english": "Action starts, today.",
+      "korean": "행동 시작, 오늘.",
+      "category": "Time Korean",
+      "generated_at": "2026-09-13T19:06:00.931449"
+    },
+    {
+      "english": "Challenge begins, now.",
+      "korean": "도전 시작, 지금.",
+      "category": "Time Korean",
+      "generated_at": "2026-09-13T19:06:00.931457"
+    },
+    {
+      "english": "Learn one word, go.",
+      "korean": "단어 하나 배우고, 가세요.",
+      "category": "Time Korean",
+      "generated_at": "2026-09-13T19:06:00.931458"
+    },
+    {
+      "english": "Try this sentence, now.",
+      "korean": "이 문장 시도, 지금.",
+      "category": "Time Korean",
+      "generated_at": "2026-09-13T19:06:00.931460"
+    },
+    {
+      "english": "Repeat it, loudly.",
+      "korean": "따라 말해요, 크게.",
+      "category": "Time Korean",
+      "generated_at": "2026-09-13T19:06:00.931461"
     }
   ],
-  "last_updated": "2026-09-13T17:06:49.640686"
+  "last_updated": "2026-09-13T19:06:00.931462"
 }
