@@ -23579,7 +23579,37 @@
       "korean": "그 소리, 맞아요.",
       "category": "Numbers Korean",
       "generated_at": "2026-09-13T04:02:24.466979"
+    },
+    {
+      "english": "Found a good deal, yes!",
+      "korean": "좋은 딜, 찾았어요!",
+      "category": "Shopping Korean",
+      "generated_at": "2026-09-13T17:06:49.640670"
+    },
+    {
+      "english": "This looks perfect, buy!",
+      "korean": "이거 완벽해요, 사자!",
+      "category": "Shopping Korean",
+      "generated_at": "2026-09-13T17:06:49.640680"
+    },
+    {
+      "english": "Bargain successful, great!",
+      "korean": "흥정 성공, 좋아요!",
+      "category": "Shopping Korean",
+      "generated_at": "2026-09-13T17:06:49.640682"
+    },
+    {
+      "english": "Price dropped, happy!",
+      "korean": "가격 내렸어요, 행복!",
+      "category": "Shopping Korean",
+      "generated_at": "2026-09-13T17:06:49.640683"
+    },
+    {
+      "english": "This item, fits me!",
+      "korean": "이 옷, 잘 맞아요!",
+      "category": "Shopping Korean",
+      "generated_at": "2026-09-13T17:06:49.640684"
     }
   ],
-  "last_updated": "2026-09-13T04:02:24.466981"
+  "last_updated": "2026-09-13T17:06:49.640686"
 }
