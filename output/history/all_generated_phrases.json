@@ -24629,7 +24629,37 @@
       "korean": "예쁘긴 한데, 나중에 살까?",
       "category": "Shopping Korean",
       "generated_at": "2026-09-20T04:12:55.545362"
+    },
+    {
+      "english": "Where is help?",
+      "korean": "도움이, 어디에 있습니까?",
+      "category": "Emergency Korean",
+      "generated_at": "2026-09-20T17:04:14.369723"
+    },
+    {
+      "english": "Call emergency.",
+      "korean": "응급, 전화해 주세요.",
+      "category": "Emergency Korean",
+      "generated_at": "2026-09-20T17:04:14.369745"
+    },
+    {
+      "english": "I am lost.",
+      "korean": "제가, 길을 잃었습니다.",
+      "category": "Emergency Korean",
+      "generated_at": "2026-09-20T17:04:14.369747"
+    },
+    {
+      "english": "Where is the station?",
+      "korean": "역이, 어디입니까?",
+      "category": "Emergency Korean",
+      "generated_at": "2026-09-20T17:04:14.369748"
+    },
+    {
+      "english": "I am sick.",
+      "korean": "아픕니다, 몸이.",
+      "category": "Emergency Korean",
+      "generated_at": "2026-09-20T17:04:14.369749"
     }
   ],
-  "last_updated": "2026-09-20T04:12:55.545364"
+  "last_updated": "2026-09-20T17:04:14.369751"
 }
