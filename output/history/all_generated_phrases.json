@@ -25169,7 +25169,37 @@
       "korean": "잘 듣세요, 자신이 말합니다.",
       "category": "Numbers Korean",
       "generated_at": "2026-09-23T22:33:22.043971"
+    },
+    {
+      "english": "Good sentence! You sang it well.",
+      "korean": "좋은 문장! 잘 안기셨어요.",
+      "category": "Greetings",
+      "generated_at": "2026-09-24T01:17:08.613027"
+    },
+    {
+      "english": "You spoke Korean. Amazing step!",
+      "korean": "한국어 하셨어요. 멋진 단계!",
+      "category": "Greetings",
+      "generated_at": "2026-09-24T01:17:08.613039"
+    },
+    {
+      "english": "Understanding today. A true spark.",
+      "korean": "오늘은 이해했어요. 진정한 불꽃.",
+      "category": "Greetings",
+      "generated_at": "2026-09-24T01:17:08.613040"
+    },
+    {
+      "english": "New word learned. So good!",
+      "korean": "새 단어를 배웠어요. 참 잘했어요!",
+      "category": "Greetings",
+      "generated_at": "2026-09-24T01:17:08.613040"
+    },
+    {
+      "english": "Yes, again! Practice makes progress.",
+      "korean": "네, 또 하셨어요! 향상이 습관.",
+      "category": "Greetings",
+      "generated_at": "2026-09-24T01:17:08.613041"
     }
   ],
-  "last_updated": "2026-09-23T22:33:22.043974"
+  "last_updated": "2026-09-24T01:17:08.613042"
 }
