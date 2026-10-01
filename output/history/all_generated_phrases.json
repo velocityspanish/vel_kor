@@ -26249,7 +26249,37 @@
       "korean": "작은 연습, 큰 도약.",
       "category": "Basic Phrases",
       "generated_at": "2026-10-01T01:56:51.784557"
+    },
+    {
+      "english": "Hold the cliff!",
+      "korean": "절벽을 잡아요!",
+      "category": "Emergency Korean",
+      "generated_at": "2026-10-01T05:02:58.033003"
+    },
+    {
+      "english": "Wind warns: move!",
+      "korean": "바람 경고: 움직여요!",
+      "category": "Emergency Korean",
+      "generated_at": "2026-10-01T05:02:58.033016"
+    },
+    {
+      "english": "River flows, so hurry!",
+      "korean": "강이 흘러요, 서둘러요!",
+      "category": "Emergency Korean",
+      "generated_at": "2026-10-01T05:02:58.033018"
+    },
+    {
+      "english": "Dark clouds coming!",
+      "korean": "먹구름 다가와요!",
+      "category": "Emergency Korean",
+      "generated_at": "2026-10-01T05:02:58.033019"
+    },
+    {
+      "english": "Don't drop anchor!",
+      "korean": "닻을 내리지 마요!",
+      "category": "Emergency Korean",
+      "generated_at": "2026-10-01T05:02:58.033020"
     }
   ],
-  "last_updated": "2026-10-01T01:56:51.784559"
+  "last_updated": "2026-10-01T05:02:58.033022"
 }
