@@ -26579,7 +26579,37 @@
       "korean": "속삭임, 할 수 있어!",
       "category": "Courage",
       "generated_at": "2026-10-03T04:35:47.190256"
+    },
+    {
+      "english": "Speak now, travel starts.",
+      "korean": "지금 말해요, 여행 시작.",
+      "category": "Travel Korean",
+      "generated_at": "2026-10-03T17:40:12.060948"
+    },
+    {
+      "english": "Ask today, arrive somewhere.",
+      "korean": "오늘 물어봐요, 어디 가요.",
+      "category": "Travel Korean",
+      "generated_at": "2026-10-03T17:40:12.060958"
+    },
+    {
+      "english": "Order confidently, enjoy food.",
+      "korean": "자신 있게 시켜요, 즐겨요.",
+      "category": "Travel Korean",
+      "generated_at": "2026-10-03T17:40:12.060961"
+    },
+    {
+      "english": "Confirm directions, explore freely.",
+      "korean": "길 확인해요, 마음껏 가요.",
+      "category": "Travel Korean",
+      "generated_at": "2026-10-03T17:40:12.060963"
+    },
+    {
+      "english": "Reserve table, eat well.",
+      "korean": "자리 예약, 많이 드세요.",
+      "category": "Travel Korean",
+      "generated_at": "2026-10-03T17:40:12.060966"
     }
   ],
-  "last_updated": "2026-10-03T04:35:47.190258"
+  "last_updated": "2026-10-03T17:40:12.060967"
 }
