@@ -27209,7 +27209,37 @@
       "korean": "벽 말고, 연결 지어.",
       "category": "Courage",
       "generated_at": "2026-10-07T19:38:53.205699"
+    },
+    {
+      "english": "This dish, is special, try it.",
+      "korean": "이 음식, 정말 특별해요, 맛보세요.",
+      "category": "Restaurant Korean",
+      "generated_at": "2026-10-07T21:42:27.145714"
+    },
+    {
+      "english": "A table, for two, please.",
+      "korean": "테이블, 두 개, 부탁드려요.",
+      "category": "Restaurant Korean",
+      "generated_at": "2026-10-07T21:42:27.145728"
+    },
+    {
+      "english": "What is this, recommended?",
+      "korean": "이거 뭐예요, 추천하나요?",
+      "category": "Restaurant Korean",
+      "generated_at": "2026-10-07T21:42:27.145730"
+    },
+    {
+      "english": "Just one bite, you'll love it.",
+      "korean": "한 입만, 분명 좋을 거예요.",
+      "category": "Restaurant Korean",
+      "generated_at": "2026-10-07T21:42:27.145731"
+    },
+    {
+      "english": "Spiciness, is it strong?",
+      "korean": "매운맛, 많이 매워요?",
+      "category": "Restaurant Korean",
+      "generated_at": "2026-10-07T21:42:27.145731"
     }
   ],
-  "last_updated": "2026-10-07T19:38:53.205701"
+  "last_updated": "2026-10-07T21:42:27.145733"
 }
