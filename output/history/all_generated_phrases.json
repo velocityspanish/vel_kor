@@ -27899,7 +27899,37 @@
       "korean": "이 칭찬,   내가 얻었어.",
       "category": "Restaurant Korean",
       "generated_at": "2026-10-12T02:13:16.967618"
+    },
+    {
+      "english": "Hello, new wisdom. Great!",
+      "korean": "안녕하세요, 새 지혜. 좋아요!",
+      "category": "Kindness",
+      "generated_at": "2026-10-12T05:12:01.536318"
+    },
+    {
+      "english": "Spoke a word. Yes!",
+      "korean": "한 단어 말했어요. 네!",
+      "category": "Kindness",
+      "generated_at": "2026-10-12T05:12:01.536330"
+    },
+    {
+      "english": "Understood meaning. Hooray!",
+      "korean": "이해한 의미. 만세!",
+      "category": "Kindness",
+      "generated_at": "2026-10-12T05:12:01.536332"
+    },
+    {
+      "english": "Grammar click. Wow!",
+      "korean": "문법 맞섰어요. 와!",
+      "category": "Kindness",
+      "generated_at": "2026-10-12T05:12:01.536334"
+    },
+    {
+      "english": "New sentence. Wonderful!",
+      "korean": "새 문장. 멋져요!",
+      "category": "Kindness",
+      "generated_at": "2026-10-12T05:12:01.536335"
     }
   ],
-  "last_updated": "2026-10-12T02:13:16.967620"
+  "last_updated": "2026-10-12T05:12:01.536337"
 }
