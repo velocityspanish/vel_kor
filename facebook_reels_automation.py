@@ -423,26 +423,54 @@ Return as JSON: [{{"english": "...", "korean": "...", "romanization": "..."}}]""
 
 # ============== AUDIO GENERATION ==============
 
+def configure_edge_tts():
+    """Ensure edge_tts connects to Microsoft's active endpoint to avoid 403 on cloud runners."""
+    try:
+        import edge_tts.constants
+        import edge_tts.communicate
+        token = getattr(edge_tts.constants, "TRUSTED_CLIENT_TOKEN", "6A5AA1D4EAFF4E9FB37E23D68491D6F4")
+        new_url = (
+            "wss://api.msedgeservices.com/tts/cognitiveservices/websocket/v1"
+            f"?Ocp-Apim-Subscription-Key={token}"
+        )
+        edge_tts.constants.WSS_URL = new_url
+        edge_tts.communicate.WSS_URL = new_url
+    except Exception:
+        pass
+
+
 async def generate_single_audio(text: str, voice: str, output_path: str, max_retries: int = 3):
-    """Generate audio using Edge TTS with retry logic"""
-    import edge_tts
-    
+    """Generate audio using Edge TTS with active endpoint, retry, and fallback"""
+    if not text or not str(text).strip():
+        return False
+    configure_edge_tts()
     for attempt in range(max_retries):
         try:
-            communicate = edge_tts.Communicate(text, voice)
+            import edge_tts
+            communicate = edge_tts.Communicate(str(text).strip(), voice)
             await communicate.save(output_path)
-            
-            # Verify audio was created
-            if Path(output_path).exists() and Path(output_path).stat().st_size > 0:
+            out = Path(output_path)
+            if out.exists() and out.stat().st_size > 200:
                 return True
-            
         except Exception as e:
-            if attempt < max_retries - 1:
-                print(f"  TTS error (attempt {attempt + 1}/{max_retries}): {e} - Retrying...")
-                await asyncio.sleep(1)
-            else:
-                print(f"  TTS error (final attempt): {e}")
-    
+            print(f"  TTS attempt {attempt + 1}/{max_retries} error: {e}")
+            await asyncio.sleep(1)
+
+    try:
+        from gtts import gTTS
+        lang = "en"
+        if "-" in voice:
+            prefix = voice.split("-")[0].lower()
+            lang = prefix
+        tts = gTTS(text=str(text).strip(), lang=lang)
+        tts.save(output_path)
+        out = Path(output_path)
+        if out.exists() and out.stat().st_size > 200:
+            print(f"  ✓ gTTS fallback succeeded for: {output_path}")
+            return True
+    except Exception:
+        pass
+
     return False
 
 
