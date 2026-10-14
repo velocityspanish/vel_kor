@@ -28289,7 +28289,37 @@
       "korean": "작은 기쁨, 큰 날 채워요.",
       "category": "Time Korean",
       "generated_at": "2026-10-14T20:23:03.839815"
+    },
+    {
+      "english": "Call this number. Quick!",
+      "korean": "이 번호 기억해요. 어서!",
+      "category": "Emergency Korean",
+      "generated_at": "2026-10-14T22:49:54.083131"
+    },
+    {
+      "english": "Fire! Get out. Now!",
+      "korean": "불이야! 나가요. 즉시!",
+      "category": "Emergency Korean",
+      "generated_at": "2026-10-14T22:49:54.083143"
+    },
+    {
+      "english": "Help me, please. Hurry!",
+      "korean": "도와주세요. 빨리요!",
+      "category": "Emergency Korean",
+      "generated_at": "2026-10-14T22:49:54.083144"
+    },
+    {
+      "english": "This is danger. Run!",
+      "korean": "위험해요. 도망가요!",
+      "category": "Emergency Korean",
+      "generated_at": "2026-10-14T22:49:54.083145"
+    },
+    {
+      "english": "Stop! Right there.",
+      "korean": "멈춰요! 거기 그대로.",
+      "category": "Emergency Korean",
+      "generated_at": "2026-10-14T22:49:54.083146"
     }
   ],
-  "last_updated": "2026-10-14T20:23:03.839817"
+  "last_updated": "2026-10-14T22:49:54.083148"
 }
