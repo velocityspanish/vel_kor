@@ -30209,7 +30209,37 @@
       "korean": "고요 품고, 평온 발견.",
       "category": "Forgiveness",
       "generated_at": "2026-10-27T19:27:25.170705"
+    },
+    {
+      "english": "You can learn, sentence by sentence.",
+      "korean": "문장 하나, 잘 배웠어요. (Munjang hana, jal baewosseoyo.)",
+      "category": "Greetings",
+      "generated_at": "2026-10-28T07:19:12.424746"
+    },
+    {
+      "english": "This word, was easy today.",
+      "korean": "오늘, 단어가 쉬웠어요. (Oneul, daneoga swiwoseoyo.)",
+      "category": "Greetings",
+      "generated_at": "2026-10-28T07:19:12.424756"
+    },
+    {
+      "english": "Sound understood, so good.",
+      "korean": "소리, 이해했어요. 정말 좋아요. (Sori, ihaeh haesseoyo. Jeongmal joayo.)",
+      "category": "Greetings",
+      "generated_at": "2026-10-28T07:19:12.424758"
+    },
+    {
+      "english": "Practice pays off, see.",
+      "korean": "연습은, 도움이 돼요. 보세요. (Yeonseubeun, doumi dwaeyo. Boseyo.)",
+      "category": "Greetings",
+      "generated_at": "2026-10-28T07:19:12.424759"
+    },
+    {
+      "english": "That grammar, now I know.",
+      "korean": "그 문법, 알겠어요, 지금. (Geu munbeop, algesseoyo, jigeum.)",
+      "category": "Greetings",
+      "generated_at": "2026-10-28T07:19:12.424760"
     }
   ],
-  "last_updated": "2026-10-27T19:27:25.170706"
+  "last_updated": "2026-10-28T07:19:12.424762"
 }
