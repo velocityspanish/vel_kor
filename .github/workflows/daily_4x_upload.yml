@@ -3,10 +3,10 @@ name: Velocity Korean - Daily 5x Upload
 on:
   # Schedule 5 posts per day (American EST/EDT time)
   schedule:
-    - cron: '30 1 * * *'   # 10:30 AM Seoul
-    - cron: '0 3 * * *'    # 12:00 PM Seoul
-    - cron: '15 5 * * *'   # 2:15 PM Seoul
-    - cron: '45 9 * * *'   # 6:45 PM Seoul
+    #- cron: '30 1 * * *'   # 10:30 AM Seoul
+    #- cron: '0 3 * * *'    # 12:00 PM Seoul
+    #- cron: '15 5 * * *'   # 2:15 PM Seoul
+    #- cron: '45 9 * * *'   # 6:45 PM Seoul
     - cron: '15 14 * * *'  # 11:15 PM Seoul
 
   # Allow manual trigger for testing
