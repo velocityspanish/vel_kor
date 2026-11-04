@@ -18,7 +18,7 @@
 
 ```
 Name: POLLINATIONS_API_KEY
-Value: sk_4zphLgWL41PgQM63uVA9LSFKm8BObgY5
+Value: <REDACTED>
 ```
 
 **Get your key:** https://enter.pollinations.ai
