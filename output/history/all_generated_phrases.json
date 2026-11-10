@@ -31324,7 +31324,42 @@
       "transliteration": "deo gakka-i wa, anajugo sipeo",
       "category": "Love",
       "generated_at": "2026-11-10T09:30:28.521926"
+    },
+    {
+      "english": "Help me, please, it's an emergency.",
+      "korean": "도와주세요, 응급이에요.",
+      "transliteration": "dowa juseyo, eunggeume-yo",
+      "category": "Emergency",
+      "generated_at": "2026-11-10T19:20:34.518745"
+    },
+    {
+      "english": "Call 119 right now, please.",
+      "korean": "지금 119에 전화해주세요.",
+      "transliteration": "jigeum 119e jeonhwahae juseyo",
+      "category": "Emergency",
+      "generated_at": "2026-11-10T19:20:34.518757"
+    },
+    {
+      "english": "Is there a doctor nearby?",
+      "korean": "근처에 의사 있어요?",
+      "transliteration": "geuncheo-e uisa isseoyo",
+      "category": "Emergency",
+      "generated_at": "2026-11-10T19:20:34.518759"
+    },
+    {
+      "english": "I feel very sick, please help.",
+      "korean": "너무 아파요, 도와주세요.",
+      "transliteration": "neomu apa-yo, dowa juseyo",
+      "category": "Emergency",
+      "generated_at": "2026-11-10T19:20:34.518761"
+    },
+    {
+      "english": "Stop, I'm in danger, please.",
+      "korean": "멈춰요, 위험해요, 도와주세요.",
+      "transliteration": "meomchwo-yo, wiheomhae-yo, dowa juseyo",
+      "category": "Emergency",
+      "generated_at": "2026-11-10T19:20:34.518762"
     }
   ],
-  "last_updated": "2026-11-10T09:30:28.521929"
+  "last_updated": "2026-11-10T19:20:34.518767"
 }
