@@ -31359,7 +31359,42 @@
       "transliteration": "meomchwo-yo, wiheomhae-yo, dowa juseyo",
       "category": "Emergency",
       "generated_at": "2026-11-10T19:20:34.518762"
+    },
+    {
+      "english": "Thank you, 마음이 따뜻해져요 today.",
+      "korean": "고마워요, 마음이 따뜻해져요.",
+      "transliteration": "gomawo-yo, maeumi ttatteutae-jyeo-yo",
+      "category": "Gratitude",
+      "generated_at": "2026-11-10T20:44:08.031174"
+    },
+    {
+      "english": "I appreciate you, 진심으로 감사해요.",
+      "korean": "정말 고마워요, 진심으로 감사해요.",
+      "transliteration": "jeongmal gomawo-yo, jinsimeuro gam-sa-hae-yo",
+      "category": "Gratitude",
+      "generated_at": "2026-11-10T20:44:08.031190"
+    },
+    {
+      "english": "Thanks for your time, 고맙습니다.",
+      "korean": "시간 내줘서 고맙습니다.",
+      "transliteration": "si-gan nae-jwo-seo gom-seum-ni-da",
+      "category": "Gratitude",
+      "generated_at": "2026-11-10T20:44:08.031192"
+    },
+    {
+      "english": "Your kindness makes my day better.",
+      "korean": "당신의 친절 덕분에 하루가 나아져요.",
+      "transliteration": "dang-sin-ui chin-jeol dok-bun-e haru-ga na-a-jyeo-yo",
+      "category": "Gratitude",
+      "generated_at": "2026-11-10T20:44:08.031194"
+    },
+    {
+      "english": "I’m grateful, 오늘도 잘 해낼게요.",
+      "korean": "감사해요, 오늘도 잘해낼 거예요.",
+      "transliteration": "gam-sa-hae-yo, oneul-do jal-hae-nal geo-ye-yo",
+      "category": "Gratitude",
+      "generated_at": "2026-11-10T20:44:08.031195"
     }
   ],
-  "last_updated": "2026-11-10T19:20:34.518767"
+  "last_updated": "2026-11-10T20:44:08.031197"
 }
