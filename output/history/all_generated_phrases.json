@@ -31604,7 +31604,42 @@
       "transliteration": "na gwaenchanh-a-yo, jigeum yeogi-eseo.",
       "category": "Inner Peace",
       "generated_at": "2026-11-11T23:23:22.673961"
+    },
+    {
+      "english": "I’m just looking, thank you.",
+      "korean": "그냥 둘러볼게요, 감사합니다.",
+      "transliteration": "geunyang dulleobolgeyo, gamsahamnida",
+      "category": "Shopping",
+      "generated_at": "2026-11-12T01:49:16.648602"
+    },
+    {
+      "english": "How much is this item?",
+      "korean": "이거 얼마예요?",
+      "transliteration": "igeo eolma-ye-yo",
+      "category": "Shopping",
+      "generated_at": "2026-11-12T01:49:16.648618"
+    },
+    {
+      "english": "Where is the fitting room?",
+      "korean": "탈의실이 어디예요?",
+      "transliteration": "tali-uishil-i eodi-ye-yo",
+      "category": "Shopping",
+      "generated_at": "2026-11-12T01:49:16.648620"
+    },
+    {
+      "english": "Do you have this in a larger size?",
+      "korean": "이거 더 큰 사이즈 있어요?",
+      "transliteration": "igeo deo keun saijeu isseoyo",
+      "category": "Shopping",
+      "generated_at": "2026-11-12T01:49:16.648621"
+    },
+    {
+      "english": "What colors do you have?",
+      "korean": "어떤 색이 있어요?",
+      "transliteration": "eotteon saek-i isseoyo",
+      "category": "Shopping",
+      "generated_at": "2026-11-12T01:49:16.648622"
     }
   ],
-  "last_updated": "2026-11-11T23:23:22.673963"
+  "last_updated": "2026-11-12T01:49:16.648624"
 }
