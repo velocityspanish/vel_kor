@@ -31709,7 +31709,42 @@
       "transliteration": "eo-jyeot-deun mal-hae-yo, mi-so-ro",
       "category": "Motivation",
       "generated_at": "2026-11-12T19:35:02.324170"
+    },
+    {
+      "english": "Where is the nearest subway station?",
+      "korean": "가장 가까운 지하철역이 어디예요?",
+      "transliteration": "ga-jang ga-kka-un ji-ha-cheol-yeok-i eo-di-ye-yo",
+      "category": "Travel",
+      "generated_at": "2026-11-12T21:20:44.149745"
+    },
+    {
+      "english": "How much is this ticket?",
+      "korean": "이 표 얼마예요?",
+      "transliteration": "i pyo oel-ma-ye-yo",
+      "category": "Travel",
+      "generated_at": "2026-11-12T21:20:44.149762"
+    },
+    {
+      "english": "Is there a map nearby?",
+      "korean": "근처에 지도 있어요?",
+      "transliteration": "geun-cheo-e ji-do i-sseo-yo",
+      "category": "Travel",
+      "generated_at": "2026-11-12T21:20:44.149764"
+    },
+    {
+      "english": "Which stop should I get off?",
+      "korean": "어느 정류장에서 내려요?",
+      "transliteration": "eo-ne jeong-nyu-jang-e-seo nae-ryeo-yo",
+      "category": "Travel",
+      "generated_at": "2026-11-12T21:20:44.149765"
+    },
+    {
+      "english": "Please take me to the hotel.",
+      "korean": "호텔로 데려다 주세요.",
+      "transliteration": "ho-tel-lo de-ryeo-da ju-se-yo",
+      "category": "Travel",
+      "generated_at": "2026-11-12T21:20:44.149766"
     }
   ],
-  "last_updated": "2026-11-12T19:35:02.324172"
+  "last_updated": "2026-11-12T21:20:44.149768"
 }
