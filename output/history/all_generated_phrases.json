@@ -31849,7 +31849,42 @@
       "transliteration": "il kkeutnago najung-e yaegi-hal su isseo?",
       "category": "Time",
       "generated_at": "2026-11-13T06:14:34.858617"
+    },
+    {
+      "english": "Mom, call me when you can.",
+      "korean": "엄마, 가능할 때 전화해 줘.",
+      "transliteration": "eomma, ganeunghal ttae jeonhwa-hae jwo",
+      "category": "Family Terms",
+      "generated_at": "2026-11-13T20:48:08.012007"
+    },
+    {
+      "english": "Dad, thank you for everything today.",
+      "korean": "아빠, 오늘도 고마워.",
+      "transliteration": "appa, oneuldo gomawo",
+      "category": "Family Terms",
+      "generated_at": "2026-11-13T20:48:08.012019"
+    },
+    {
+      "english": "Sister, are you feeling okay?",
+      "korean": "언니, 괜찮아?",
+      "transliteration": "eonni, gwaenchana",
+      "category": "Family Terms",
+      "generated_at": "2026-11-13T20:48:08.012021"
+    },
+    {
+      "english": "Brother, wait for me, please.",
+      "korean": "오빠, 나 잠깐만 기다려 줘.",
+      "transliteration": "oppa, na jamkkanman gidaeryeo jwo",
+      "category": "Family Terms",
+      "generated_at": "2026-11-13T20:48:08.012022"
+    },
+    {
+      "english": "Little brother, don't be late.",
+      "korean": "동생아, 늦지 마.",
+      "transliteration": "dongsaeng-a, neutji ma",
+      "category": "Family Terms",
+      "generated_at": "2026-11-13T20:48:08.012040"
     }
   ],
-  "last_updated": "2026-11-13T06:14:34.858619"
+  "last_updated": "2026-11-13T20:48:08.012043"
 }
