@@ -31814,7 +31814,42 @@
       "transliteration": "pyo-neo dasot jang-ieyo, yeoseot jang anieyo",
       "category": "Numbers",
       "generated_at": "2026-11-13T00:55:18.579444"
+    },
+    {
+      "english": "I’m meeting her at 3 p.m., today.",
+      "korean": "오늘 오후 세 시에 만나.",
+      "transliteration": "oneul ohu set si e manna.",
+      "category": "Time",
+      "generated_at": "2026-11-13T06:14:34.858596"
+    },
+    {
+      "english": "It’s already past seven, isn’t it?",
+      "korean": "이미 일곱 시 넘었지, 맞지?",
+      "transliteration": "imi ilgop si neomotji, matji?",
+      "category": "Time",
+      "generated_at": "2026-11-13T06:14:34.858612"
+    },
+    {
+      "english": "We should leave now, before it gets late.",
+      "korean": "지금 나가야 해, 늦기 전에.",
+      "transliteration": "jigeum naga-ya hae, neukti jeone.",
+      "category": "Time",
+      "generated_at": "2026-11-13T06:14:34.858614"
+    },
+    {
+      "english": "I wake up around six, every day.",
+      "korean": "나는 매일 여섯 시쯤 일어나.",
+      "transliteration": "naneun maeil yeots si- jjumeul il-eona.",
+      "category": "Time",
+      "generated_at": "2026-11-13T06:14:34.858616"
+    },
+    {
+      "english": "Can we talk later, after work?",
+      "korean": "일 끝나고 나중에 얘기할 수 있어?",
+      "transliteration": "il kkeutnago najung-e yaegi-hal su isseo?",
+      "category": "Time",
+      "generated_at": "2026-11-13T06:14:34.858617"
     }
   ],
-  "last_updated": "2026-11-13T00:55:18.579448"
+  "last_updated": "2026-11-13T06:14:34.858619"
 }
