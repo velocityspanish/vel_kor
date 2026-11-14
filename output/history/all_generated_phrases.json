@@ -31884,7 +31884,42 @@
       "transliteration": "dongsaeng-a, neutji ma",
       "category": "Family Terms",
       "generated_at": "2026-11-13T20:48:08.012040"
+    },
+    {
+      "english": "Unlock the next sound, say it.",
+      "korean": "다음 소리를 열고, 말해요.",
+      "transliteration": "da-eum so-ri-reul yeol-go, mal-hae-yo",
+      "category": "Growth",
+      "generated_at": "2026-11-14T18:58:06.943769"
+    },
+    {
+      "english": "Try again, slower this time.",
+      "korean": "다시 해봐요, 이번엔 천천히요.",
+      "transliteration": "da-si hae-bwa-yo, i-beon-en cheon-cheon-hi-yo",
+      "category": "Growth",
+      "generated_at": "2026-11-14T18:58:06.943781"
+    },
+    {
+      "english": "Listen first, then speak gently.",
+      "korean": "먼저 들어요, 그리고 살살 말해요.",
+      "transliteration": "meon-jeo deu-reo-yo, geu-ri-go sal-sal mal-hae-yo",
+      "category": "Growth",
+      "generated_at": "2026-11-14T18:58:06.943783"
+    },
+    {
+      "english": "Good start, keep going today.",
+      "korean": "좋은 시작이에요, 오늘 계속해요.",
+      "transliteration": "jo-eun si-jak-i-e-yo, o-neul gye-sok-hae-yo",
+      "category": "Growth",
+      "generated_at": "2026-11-14T18:58:06.943784"
+    },
+    {
+      "english": "Small practice, big confidence grows.",
+      "korean": "조금씩 연습하면, 자신감이 커져요.",
+      "transliteration": "jo-geum-ssik yeon-seup-ha-myeon, ja-shin-gam-i keo-jeo-yo",
+      "category": "Growth",
+      "generated_at": "2026-11-14T18:58:06.943786"
     }
   ],
-  "last_updated": "2026-11-13T20:48:08.012043"
+  "last_updated": "2026-11-14T18:58:06.943790"
 }
