@@ -32024,7 +32024,42 @@
       "transliteration": "Jagihan-te chinjeolhae-yo, cheoncheonhi baewo-yo.",
       "category": "Wisdom",
       "generated_at": "2026-11-17T22:06:17.072432"
+    },
+    {
+      "english": "Hi, is there a table for two?",
+      "korean": "안녕하세요, 두 분 자리 있어요?",
+      "transliteration": "an-nyeong-ha-se-yo, du bun ja-ri i-sseo-yo?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-18T21:44:25.742577"
+    },
+    {
+      "english": "Can we see the menu, please?",
+      "korean": "메뉴 좀 볼 수 있을까요?",
+      "transliteration": "me-nyu jom bol su i-sseul-kka-yo?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-18T21:44:25.742593"
+    },
+    {
+      "english": "What do you recommend here?",
+      "korean": "여기 뭐가 제일 맛있어요?",
+      "transliteration": "yeo-gi mwo-ga je-il ma-shi-sseo-yo?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-18T21:44:25.742594"
+    },
+    {
+      "english": "Do you have vegetarian options?",
+      "korean": "채식 메뉴도 있어요?",
+      "transliteration": "chae-sik me-nyu-do i-sseo-yo?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-18T21:44:25.742596"
+    },
+    {
+      "english": "I’d like spicy food, please.",
+      "korean": "매운 거로 주세요.",
+      "transliteration": "mae-un geo-ro ju-se-yo.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-18T21:44:25.742598"
     }
   ],
-  "last_updated": "2026-11-17T22:06:17.072434"
+  "last_updated": "2026-11-18T21:44:25.742601"
 }
