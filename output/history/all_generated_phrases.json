@@ -32129,7 +32129,42 @@
       "transliteration": "ha-ru-ha-ru gye-sok na-ta-na jwo",
       "category": "Patience",
       "generated_at": "2026-11-20T21:42:10.790594"
+    },
+    {
+      "english": "Let’s practice this together, right now.",
+      "korean": "이거 같이 연습해요, 지금 바로요.",
+      "transliteration": "igeo gachi yeonseuphaeyo, jigeum barayo",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-21T20:23:58.579622"
+    },
+    {
+      "english": "How do you say this in Korean?",
+      "korean": "이거 한국어로 뭐라고 해요?",
+      "transliteration": "igeo hangugeo-ro mworago haeyo",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-21T20:23:58.579635"
+    },
+    {
+      "english": "I’m trying, even if it’s slow.",
+      "korean": "느려도 괜찮아요, 계속 해볼게요.",
+      "transliteration": "neuryeodo gwaenchanhayo, gyesok haebolgeyo",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-21T20:23:58.579637"
+    },
+    {
+      "english": "Sorry, I didn’t catch that.",
+      "korean": "미안해요, 잘 못 들었어요.",
+      "transliteration": "mianhaeyo, jal mot deul-eosseoyo",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-21T20:23:58.579638"
+    },
+    {
+      "english": "Please speak a little more slowly.",
+      "korean": "조금만 천천히 말해 주세요.",
+      "transliteration": "jogeum-man cheoncheonhi malhae juseyo",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-21T20:23:58.579640"
     }
   ],
-  "last_updated": "2026-11-20T21:42:10.790596"
+  "last_updated": "2026-11-21T20:23:58.579642"
 }
