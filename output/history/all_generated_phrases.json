@@ -32234,7 +32234,42 @@
       "transliteration": "sum gogorigo, chabunhi dasi haebwa.",
       "category": "Perseverance",
       "generated_at": "2026-11-24T01:30:26.824473"
+    },
+    {
+      "english": "Hello! How are you today, friend?",
+      "korean": "안녕하세요! 오늘은 어떻게 지냈어요?",
+      "transliteration": "annyeonghaseyo! oneul-eun eotteoke jinaess-eoyo?",
+      "category": "Greetings",
+      "generated_at": "2026-11-24T23:24:27.235633"
+    },
+    {
+      "english": "Hi there, nice to meet you!",
+      "korean": "안녕, 만나서 반가워요!",
+      "transliteration": "annyeong, mannaseo bangawoyo!",
+      "category": "Greetings",
+      "generated_at": "2026-11-24T23:24:27.235647"
+    },
+    {
+      "english": "Good morning! I hope you’re well.",
+      "korean": "좋은 아침이에요! 잘 지내고 있어요?",
+      "transliteration": "joeun achim-ieyo! jal jinaego isseoyo?",
+      "category": "Greetings",
+      "generated_at": "2026-11-24T23:24:27.235649"
+    },
+    {
+      "english": "Good afternoon, how’s your day going?",
+      "korean": "좋은 오후예요, 하루 어때요?",
+      "transliteration": "joeun ohu-ye-yo, haru eottaeyo?",
+      "category": "Greetings",
+      "generated_at": "2026-11-24T23:24:27.235650"
+    },
+    {
+      "english": "Good evening! Did you have a good day?",
+      "korean": "좋은 저녁이에요! 오늘 하루 어땠어요?",
+      "transliteration": "joeun jeonyeok-ieyo! oneul haru eottaesseoyo?",
+      "category": "Greetings",
+      "generated_at": "2026-11-24T23:24:27.235652"
     }
   ],
-  "last_updated": "2026-11-24T01:30:26.824475"
+  "last_updated": "2026-11-24T23:24:27.235654"
 }
