@@ -32269,7 +32269,42 @@
       "transliteration": "joeun jeonyeok-ieyo! oneul haru eottaesseoyo?",
       "category": "Greetings",
       "generated_at": "2026-11-24T23:24:27.235652"
+    },
+    {
+      "english": "I’m thankful for this quiet moment, today.",
+      "korean": "오늘 이 조용한 순간이 고마워요.",
+      "transliteration": "oneul i joyonghan sungan-i gomaweoyo",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T22:58:34.613289"
+    },
+    {
+      "english": "Thank you, I feel lighter now, too.",
+      "korean": "고마워요, 나도 마음이 가벼워졌어요.",
+      "transliteration": "gomaweoyo, na-do maeumi gabeowojyeosseoyo",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T22:58:34.613307"
+    },
+    {
+      "english": "Your help meant a lot to me.",
+      "korean": "도와줘서 정말 큰 도움이 됐어요.",
+      "transliteration": "dowa jwo-seo jeongmal keun doumi doeeosseoyo",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T22:58:34.613309"
+    },
+    {
+      "english": "I appreciate you, for listening so kindly.",
+      "korean": "잘 들어줘서 진심으로 감사해요.",
+      "transliteration": "jal deureojwo-seo jinsimeuro gamsaehaeyo",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T22:58:34.613310"
+    },
+    {
+      "english": "Thanks, I’ll pay it forward, soon.",
+      "korean": "고마워요, 저도 곧 갚을게요.",
+      "transliteration": "gomaweoyo, jeodo got gambeulkeyo",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T22:58:34.613312"
     }
   ],
-  "last_updated": "2026-11-24T23:24:27.235654"
+  "last_updated": "2026-11-25T22:58:34.613316"
 }
