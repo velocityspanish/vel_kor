@@ -32325,7 +32325,28 @@
       "transliteration": "Gugubchareul bulleo juseyo",
       "category": "Emergency",
       "generated_at": "2026-11-26T09:32:37.436087"
+    },
+    {
+      "english": "I’m checking my account balance now.",
+      "korean": "지금 계좌 잔액을 확인하고 있어요.",
+      "transliteration": "Jigeum gyeoja jwanaek-eul hwag-inhago isseoyo",
+      "category": "Finance",
+      "generated_at": "2026-11-26T19:25:54.495299"
+    },
+    {
+      "english": "Can you transfer money for me, please?",
+      "korean": "송금 좀 대신 해 주실 수 있어요?",
+      "transliteration": "Songgeum jom daesin hae jusil su isseoyo",
+      "category": "Finance",
+      "generated_at": "2026-11-26T19:25:54.495310"
+    },
+    {
+      "english": "I’ll pay in installments this month.",
+      "korean": "이번 달은 할부로 결제할게요.",
+      "transliteration": "Ibeon dar-eun halbulo gyeolje-halgeyo",
+      "category": "Finance",
+      "generated_at": "2026-11-26T19:25:54.495312"
     }
   ],
-  "last_updated": "2026-11-26T09:32:37.436090"
+  "last_updated": "2026-11-26T19:25:54.495314"
 }
