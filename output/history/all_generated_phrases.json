@@ -32367,7 +32367,28 @@
       "transliteration": "Deureobwa yo, saedeuri noraehaeyo",
       "category": "Nature",
       "generated_at": "2026-11-27T04:01:35.528130"
+    },
+    {
+      "english": "Where can I buy this jacket?",
+      "korean": "이 재킷 어디에서 살 수 있어요?",
+      "transliteration": "I jaekis eodi-eseo sal su isseoyo?",
+      "category": "Clothes",
+      "generated_at": "2026-11-27T11:56:49.006144"
+    },
+    {
+      "english": "I need a new pair of socks.",
+      "korean": "양말 새로 한 켤레 필요해요.",
+      "transliteration": "Yangmal saero han kelle piryohaeyo.",
+      "category": "Clothes",
+      "generated_at": "2026-11-27T11:56:49.006160"
+    },
+    {
+      "english": "This shirt feels too tight.",
+      "korean": "이 셔츠가 너무 꽉 끼어요.",
+      "transliteration": "I syocheuga neomu kko kkieoyo.",
+      "category": "Clothes",
+      "generated_at": "2026-11-27T11:56:49.006163"
     }
   ],
-  "last_updated": "2026-11-27T04:01:35.528132"
+  "last_updated": "2026-11-27T11:56:49.006165"
 }
