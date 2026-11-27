@@ -32346,7 +32346,28 @@
       "transliteration": "Ibeon dar-eun halbulo gyeolje-halgeyo",
       "category": "Finance",
       "generated_at": "2026-11-26T19:25:54.495312"
+    },
+    {
+      "english": "The sunset looks amazing today, wow.",
+      "korean": "오늘 노을이 정말 멋지네요, 와!",
+      "transliteration": "Oneul noeuri jeongmal meotchineyo, wa!",
+      "category": "Nature",
+      "generated_at": "2026-11-27T04:01:35.528110"
+    },
+    {
+      "english": "It's chilly today, bring a jacket.",
+      "korean": "오늘은 좀 쌀쌀하니, 외투 가져와.",
+      "transliteration": "Oneureun jom ssalssalhani, oeto gajyeowa",
+      "category": "Nature",
+      "generated_at": "2026-11-27T04:01:35.528128"
+    },
+    {
+      "english": "Listen, the birds are singing.",
+      "korean": "들어봐요, 새들이 노래해요.",
+      "transliteration": "Deureobwa yo, saedeuri noraehaeyo",
+      "category": "Nature",
+      "generated_at": "2026-11-27T04:01:35.528130"
     }
   ],
-  "last_updated": "2026-11-26T19:25:54.495314"
+  "last_updated": "2026-11-27T04:01:35.528132"
 }
