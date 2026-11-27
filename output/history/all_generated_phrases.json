@@ -32388,7 +32388,28 @@
       "transliteration": "I syocheuga neomu kko kkieoyo.",
       "category": "Clothes",
       "generated_at": "2026-11-27T11:56:49.006163"
+    },
+    {
+      "english": "You’ve got this, keep going.",
+      "korean": "너는 할 수 있어, 계속해.",
+      "transliteration": "Neoneun hal su isseo, gyesokhae.",
+      "category": "Confidence",
+      "generated_at": "2026-11-27T19:20:52.052194"
+    },
+    {
+      "english": "It’s okay to start messy.",
+      "korean": "서툴러도 시작해도 괜찮아.",
+      "transliteration": "Seotulleodo sijakhaedo gwaenchanha.",
+      "category": "Confidence",
+      "generated_at": "2026-11-27T19:20:52.052208"
+    },
+    {
+      "english": "Believe in yourself, one step at a time.",
+      "korean": "자신을 믿어, 한 걸음씩.",
+      "transliteration": "Jasineul mideo, han georeumssik.",
+      "category": "Confidence",
+      "generated_at": "2026-11-27T19:20:52.052211"
     }
   ],
-  "last_updated": "2026-11-27T11:56:49.006165"
+  "last_updated": "2026-11-27T19:20:52.052213"
 }
