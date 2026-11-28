@@ -32409,7 +32409,28 @@
       "transliteration": "Jasineul mideo, han georeumssik.",
       "category": "Confidence",
       "generated_at": "2026-11-27T19:20:52.052211"
+    },
+    {
+      "english": "I’ll reset my router now, please wait.",
+      "korean": "지금 공유기 초기화할게요, 잠깐만 기다려요.",
+      "transliteration": "Jigeum gongyugi chogihwa halgeyo, jamkkanman gidaryeoyo",
+      "category": "Technology",
+      "generated_at": "2026-11-28T03:49:56.454121"
+    },
+    {
+      "english": "Where’s my phone? I lost it.",
+      "korean": "내 폰 어디 갔지? 잃어버렸어.",
+      "transliteration": "Nae pon eodi gatji? Ireobeoryeosse",
+      "category": "Technology",
+      "generated_at": "2026-11-28T03:49:56.454157"
+    },
+    {
+      "english": "My laptop is slow again, seriously.",
+      "korean": "내 노트북 또 느려졌어, 진짜.",
+      "transliteration": "Nae noteubuk ddo neulyeojyeosseo, jinjja",
+      "category": "Technology",
+      "generated_at": "2026-11-28T03:49:56.454159"
     }
   ],
-  "last_updated": "2026-11-27T19:20:52.052213"
+  "last_updated": "2026-11-28T03:49:56.454161"
 }
