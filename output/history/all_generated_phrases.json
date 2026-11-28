@@ -32451,7 +32451,28 @@
       "transliteration": "Eotteon byeonhwa do hamkke gakkai jinaejja",
       "category": "Friendship",
       "generated_at": "2026-11-28T11:30:57.334288"
+    },
+    {
+      "english": "Be kind, even when you’re tired.",
+      "korean": "피곤해도, 다정하게 대해 주세요.",
+      "transliteration": "Pigonhaedo, dajeonghage hae juseyo",
+      "category": "Kindness",
+      "generated_at": "2026-11-28T17:56:53.906676"
+    },
+    {
+      "english": "A soft no can still help.",
+      "korean": "부드러운 거절도 도움이 돼요.",
+      "transliteration": "Budeureun geojeoldo domi dwaeyo",
+      "category": "Kindness",
+      "generated_at": "2026-11-28T17:56:53.906689"
+    },
+    {
+      "english": "Thank you, for your patient help.",
+      "korean": "기다려 줘서, 고마워요.",
+      "transliteration": "Gidaryeo jwoseo, gomawoyo",
+      "category": "Kindness",
+      "generated_at": "2026-11-28T17:56:53.906691"
     }
   ],
-  "last_updated": "2026-11-28T11:30:57.334290"
+  "last_updated": "2026-11-28T17:56:53.906692"
 }
